@@ -1,0 +1,267 @@
+{
+  "movies":[
+    {
+      "id":"1",
+      "title":"Aquaman",
+      "desc":"\nDulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.",
+      "year":"2019",
+      "rating":"6.8",
+      "lengthOfTime": "144",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+      "crew":[
+        {
+          "name":"James Wan",
+          "job":"Director, Story"
+        },
+        {
+          "name":"Will Beall",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Paul Norris",
+          "job":"Characters"
+        },
+        {
+          "name":"Mort Weisinger",
+          "job":"Characters"
+        },
+        {
+          "name":"David Leslie Johnson-McGoldrick",
+          "job":"Screen Play"
+        },
+        {
+          "name":"Geoff Johns",
+          "job":"Story"
+        }
+      ]
+    },
+    {
+      "id":"2",
+      "title":"Spider-Man: Into the Spider-Verse",
+      "desc":"Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson \"Kingpin\" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.",
+      "year":"2018",
+      "rating":"8.4",
+      "lengthOfTime": "116",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "crew":[
+        {
+          "name":"Rodney Rothman",
+          "job":"Director, Screenplay"
+        },
+        {
+          "name":"Phil Lord",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Steve Ditko",
+          "job":"Characters"
+        },
+        {
+          "name":"Stan Lee",
+          "job":"Characters"
+        },
+        {
+          "name":"Bob Persichetti",
+          "job":"Director"
+        },
+        {
+          "name":"Peter Ramsey",
+          "job":"Director"
+        }
+      ]
+    },
+    {
+      "id":"3",
+      "title":"Venom",
+      "desc":"Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.",
+      "year":"2018",
+      "rating":"6.6",
+      "lengthOfTime": "140",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "crew":[
+        {
+          "name":"Mike Zeck",
+          "job":"Characters"
+        },
+        {
+          "name":"Ruben Fleischer",
+          "job":"Director"
+        },
+        {
+          "name":"David Michelinie",
+          "job":"Characters"
+        },
+        {
+          "name":"Kelly Marcel",
+          "job":"Screenplay"
+        },
+        {
+          "name":"Jeff Pinkner",
+          "job":"Screenplay"
+        },
+        {
+          "name":"Scott Rosenberg",
+          "job":"Screenplay"
+        }
+      ]
+    },
+    {
+      "id":"4",
+      "title":"Bohemian Rhapsody",
+      "desc":"Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock 'n' roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.",
+      "year":"2018",
+      "rating":"8.1",
+      "lengthOfTime": "133",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "crew":[
+        {
+          "name":"Anthony McCarten",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Bryan Singer",
+          "job":"Director"
+        },
+        {
+          "name":"Peter Morgan",
+          "job":"Story"
+        }
+      ]
+    }
+  ,{
+      "id":"5",
+      "title":"A Star Is Born (2018)",
+      "desc":"Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.",
+      "year":"2018",
+      "rating":"7.5",
+      "lengthOfTime": "153",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "crew":[
+        {
+          "name":"Rodney Rothman",
+          "job":"Director, Screenplay"
+        },
+        {
+          "name":"Phil Lord",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Steve Ditko",
+          "job":"Characters"
+        },
+        {
+          "name":"Stan Lee",
+          "job":"Characters"
+        },
+        {
+          "name":"Bob Persichetti",
+          "job":"Director"
+        },
+        {
+          "name":"Peter Ramsey",
+          "job":"Director"
+        }
+      ]
+    }
+  ,{
+      "id":"6",
+      "title":"Robin Hood",
+      "desc":"Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.",
+      "year":"2018",
+      "rating":"5.8",
+      "lengthOfTime": "116",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+      "crew":[
+        {
+          "name":"Rodney Rothman",
+          "job":"Director, Screenplay"
+        },
+        {
+          "name":"Phil Lord",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Steve Ditko",
+          "job":"Characters"
+        },
+        {
+          "name":"Stan Lee",
+          "job":"Characters"
+        },
+        {
+          "name":"Bob Persichetti",
+          "job":"Director"
+        },
+        {
+          "name":"Peter Ramsey",
+          "job":"Director"
+        }
+      ]
+    }
+  ,{
+      "id":"7",
+      "title":"Bumblebee",
+      "desc":"Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.",
+      "year":"2018",
+      "rating":"6.5",
+      "lengthOfTime": "116",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+      "crew":[
+        {
+          "name":"Rodney Rothman",
+          "job":"Director, Screenplay"
+        },
+        {
+          "name":"Phil Lord",
+          "job":"Screenplay, Story"
+        },
+        {
+          "name":"Steve Ditko",
+          "job":"Characters"
+        },
+        {
+          "name":"Stan Lee",
+          "job":"Characters"
+        },
+        {
+          "name":"Bob Persichetti",
+          "job":"Director"
+        },
+        {
+          "name":"Peter Ramsey",
+          "job":"Director"
+        }
+      ]
+    },
+    {
+      "id":"8",
+      "title":"Avengers: Infinity War",
+      "desc":"Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.",
+      "year":"2018",
+      "rating":"8.3",
+      "lengthOfTime": "160",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "crew":[]
+    },
+    {
+      "id":"9",
+      "title":"Deadpool 2",
+      "desc":"\nDeadpool tentara bayaran penyihir bertempur melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan hidup anak laki-laki.",
+      "year":"2018",
+      "rating":"7.5",
+      "lengthOfTime": "134",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "crew":[]
+    },
+    {
+      "id":"10",
+      "title":"Bird Box",
+      "desc":"\nLima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.",
+      "year":"2018",
+      "rating":"7.0",
+      "lengthOfTime": "124",
+      "photo":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "crew":[]
+    }
+  ]
+}

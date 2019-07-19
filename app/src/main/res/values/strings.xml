@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alpha JetPro</string>
+
+    <string name="category_description">Category Description</string>
+    <string name="cover_detail">Cover Detail Movie</string>
+    <string name="minutes">2h 1m</string>
+    <string name="string_movie">Movie</string>
+    <string name="string_tv_show">TV Show</string>
+    <string name="recommended_movies">Recommended Movie</string>
+    <string name="length_time">%1$s min</string>
+    <string name="overview">Overview</string>
+    <string name="img_detail_poster">IMG_DETAIL_POSTER</string>
+    <string name="img_item_movie">IMG_ITEM_MOVIE</string>
+    <string name="year">2019</string>
+</resources>
